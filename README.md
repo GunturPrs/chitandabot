@@ -16,6 +16,8 @@ Owner of Baileys | Original Base | Owner of X-Far api | Owner of Hxz-api | Owner
 ```bash
 apt update && apt upgrade
 apt install yarn
+termux-setup-storage
+cd /sdcard
 git clone https://github.com/GunturPrs/chitandabot/
 cd chitandabot
 yarn install
